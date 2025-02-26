@@ -71,6 +71,7 @@
 }
 #bannerimage img{
         height: 100%;
+        object-fit: cover;
     }
 #banner-btn-1{
     background-color:#00bec9 ;
